@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Serif+TC:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans TC", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Noto Serif TC", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: #FAF9F6;  /* Warm editorial off-white */
+  color: #1C1917;             /* Stone 900 for high readability but softer than black */
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
