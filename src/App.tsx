@@ -55,12 +55,12 @@ const certifications = [
 ];
 
 const projects = [
-  { title: "清明連假旅行規劃 Word", date: "2026/03/09", icon: <FileText className="w-5 h-5" /> },
-  { title: "清明連假旅行規劃 簡報", date: "2026/03/09", icon: <Presentation className="w-5 h-5" /> },
-  { title: "Gamma 清明連假 PDF", date: "2026/03/23", icon: <FileText className="w-5 h-5" /> },
-  { title: "Manus清明連假 PPT", date: "2026/03/23", icon: <Presentation className="w-5 h-5" /> },
-  { title: "Notebook LM清明連假 PDF", date: "2026/03/23", icon: <FileText className="w-5 h-5" /> },
-  { title: "清明連假 PPT", date: "2026/04/05", icon: <Presentation className="w-5 h-5" /> },
+  { title: "清明連假旅行規劃 Word", date: "2026/03/09", icon: <FileText className="w-5 h-5" />, link: "https://drive.google.com/file/d/1fw7qdT-_L0XICJ4XfZJIBkCbmwjwD1-i/view" },
+  { title: "清明連假旅行規劃 簡報", date: "2026/03/09", icon: <Presentation className="w-5 h-5" />, link: "https://docs.google.com/presentation/d/1ah96SQlHrZtaTVJFVWZmFPAnCZRpnAQKpivA01la6NI/present?slide=id.p1" },
+  { title: "Gamma 清明連假 PDF", date: "2026/03/23", icon: <FileText className="w-5 h-5" />, link: "https://drive.google.com/file/d/1f27FAJcl_HeY2MD15wfqwWJHovZFGO_8/view" },
+  { title: "Manus清明連假 PPT", date: "2026/03/23", icon: <Presentation className="w-5 h-5" />, link: "https://drive.google.com/file/d/1ufHWkeiZDmUC8vFBG256pWUhRraeT3Om/view" },
+  { title: "Notebook LM清明連假 PDF", date: "2026/03/23", icon: <FileText className="w-5 h-5" />, link: "https://drive.google.com/file/d/1fr0knU9DIZxv2RhPy2MhnBkXp4e9HOhy/view" },
+  { title: "清明連假 PPT", date: "2026/04/05", icon: <Presentation className="w-5 h-5" />, link: "https://drive.google.com/file/d/1iWbri1niIekE2YaWTMw3Mcjfak9uSmPO/view" },
   { title: "3D公仔", date: "2026/04/13", icon: <Cuboid className="w-5 h-5" />, link: "https://studio.tripo3d.ai/3d-model/12705dfd-ecfa-4486-a8fe-9091f9c2e1dd?invite_code=5OKBBA" }
 ];
 
